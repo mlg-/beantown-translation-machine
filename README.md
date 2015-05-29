@@ -43,7 +43,7 @@ ABOUT
 
 &lt;-------&gt;
 
-This little ruby program won its author a scholarship contest to attend Launch Academy in Summer 2015. It is meant as a gentle joke at the expense of the Boston accent (and is entirely satirical in nature!). It takes a phrase written more or less phonetically in a Boston accent (I biased towards a Southie/Dot flavor since that is what I know best) and tries to translate it into "plain English." It also does some fun stuff to award points to wicked awesome phrases that are extra Bostonian in nature. 
+This little ruby program won its author (me) a scholarship contest to attend Launch Academy in Summer 2015. It is meant as a gentle joke at the expense of the Boston accent (and is entirely satirical in nature!). It takes a phrase written more or less phonetically in a Boston accent (I biased towards a Southie/Dot flavor since that is what I know best) and tries to translate it into "plain English." It also does some fun stuff to award points to wicked awesome phrases that are extra Bostonian in nature. 
 
 To run it, download boston.rb to a local directory, cd to it, and then run "ruby boston.rb".
 
@@ -85,15 +85,3 @@ I utilized some linguistics texts to understand the specifics of non-rhotic acce
 I wrote all the code myself, using [rubular](http://rubular.com/) to write/test my regexes, the [ruby docs](http://ruby-docs.org) to look up syntax for things I wanted to do (loops, array literals), and [this site](http://www.tutorialspoint.com/ruby/ruby_regular_expressions.htm) as an in-depth reference for regexes in ruby. I was aided intangibly by my background in literature/poetry and my work in publishing.
 
 To test it, I transcribed audio recordings of a couple of friends, used the [International Dialects archive](http://www.dialectsarchive.com/massachusetts) to transcribe some examples, transcribed from recordings of Boston city meetings like [this great example](https://www.youtube.com/watch?v=RbK4cL3QSc0), and also some videos of [Marty Walsh](http://www.myfoxboston.com/story/27800960/schedule-released-for-first-9-olympic-community-meetings) giving speeches.
-
-WHY I WANT TO GO TO LAUNCH ACADEMY
-
-&lt;--------&gt;
-
-I first tried Ruby at RailsBridge Boston in winter 2013, after my friend Julissa Jansen (since a Launch Academy grad) posted about it on a social media account. I was curious since I knew that an app I was helping through beta at work was written in Ruby on Rails. I had a great time at RailsBridge, both at that initial session and the one that followed. Julissa had a great experience at Launch Academy that she has generously answered my questions about on several occasions, and I first wrote in to ask about scholarship money sometime that winter, but Bill Rowell wasn't aware of anything that was available at the time.
-
-Since then, I've worked to learn various programming topics on my own, especially front end technology like HTML/CSS/Javascript through self-study and affordable classes put on by the Women's Coding Collective and Girl Develop It. I was able to do a little bit of front end coding (and the ocassional back end bug fix) at work and in volunteer projects for friends, but had trouble progressing with back-end topics in real-world use cases at work, which is one of the reasons I want to take time to *really* learn the ropes at Launch Academy. I have learned how to hack things together and now I want to fill in the gaps in my knowledge and strengthen my fundamentals.
-
-I'm ultimately applying because I am hooked on coding and want to fully commit to changing my career path to this one after over a year of dabbling. When I saw the scholarship offer it felt like a dream come true! I've been toying with the idea of trying to do Launch Academy since that winter in 2013, and this was the push I needed to commit and apply. I want to take advantage of Launch Academy's supportive learning environment, awesome peer connections, and flipped-classroom learning approach to power-boost my efforts and make a full career transition. 
-
-Finally, an important motivation for me is my desire to increase the number of women (particularly ones who code full time) in tech careers. My background as an academic in literature and gender studies informs how I see the challenges that face tech companies regarding diversity, and I embrace and want to "be the change I wish to see" for this issue. I also really believe in "Each One Teach One," and I've already used what I know to volunteer for Hour of Code at Somerville High School this year. I know that as I continue to learn that I will pay forward that gift to others who want to learn, especially women and girls. As a Launch Academy grad, I would not only be grateful for the experience, but also be someone in the Boston tech community who represents you well and uses her skills to teach and help others, too. Thanks for considering me!
